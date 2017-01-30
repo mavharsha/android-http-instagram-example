@@ -19,7 +19,7 @@ type Post {
 
 ### Configure app endpoint
 
-Open `InstagramHTTPExample/app/src/main/java/graph/cool/instagramhttpexample/MainActivity.java` and replace `__PROJECT_ID__` with your endpoint.
+Open `app/src/main/java/graph/cool/instagramhttpexample/MainActivity.java` and replace `__PROJECT_ID__` with your endpoint.
 
 ```java
 Request request = new Request.Builder()
